@@ -1,0 +1,360 @@
+Occupation title,Proximity to others,Exposure to disease,Total in employment
+Chief executives and senior officials,48.7,11.7,101000
+Production managers and directors in manufacturing,48.0,7.5,313000
+Production managers and directors in construction,50.0,4.0,210000
+Production managers and directors in mining and energy,49.3,9.0,19000
+Financial managers and directors,44.0,5.5,352000
+Marketing and sales directors,47.5,2.5,270000
+Purchasing managers and directors,47.3,5.3,64000
+Advertising and public relations directors,42.0,7.0,45000
+Human resource managers and directors,39.7,4.3,217000
+Information technology and telecommunications directors,41.0,1.0,120000
+Functional managers and directors n.e.c.,49.3,9.0,127000
+Financial institution managers and directors,47.7,8.3,88000
+Managers and directors in transport and distribution,47.3,5.3,83000
+Managers and directors in storage and warehousing,47.3,5.3,113000
+Senior police officers,70.2,49.0,10000
+"Senior officers in fire, ambulance, prison and related services",49.3,9.0,11000
+Health services and public health managers and directors,45.0,34.0,74000
+Social services managers and directors,42.0,26.0,34000
+Managers and directors in retail and wholesale,55.0,14.0,345000
+Managers and proprietors in agriculture and horticulture,55.7,4.7,24000
+"Managers and proprietors in forestry, fishing and related services",55.7,4.7,12000
+Hotel and accommodation managers and proprietors,49.0,4.0,58000
+Restaurant and catering establishment managers and proprietors,78.0,10.0,144000
+Publicans and managers of licensed premises,49.0,4.0,40000
+Leisure and sports managers,52.0,9.8,59000
+Travel agency managers and proprietors,49.3,9.0,7000
+Health care practice managers,56.5,37.0,26000
+"Residential, day and domiciliary  care managers and proprietors",50.0,24.0,63000
+"Property, housing and estate managers",49.3,9.0,198000
+Garage managers and proprietors,49.3,9.0,26000
+Hairdressing and beauty salon managers and proprietors,49.3,9.0,25000
+Shopkeepers and proprietors Ð wholesale and retail,55.0,14.0,117000
+Waste disposal and environmental services managers,49.3,9.0,17000
+Managers and proprietors in other services n.e.c.,49.3,9.0,230000
+Chemical scientists,51.5,12.5,25000
+Biological scientists and biochemists,44.8,30.5,80000
+Physical scientists,39.3,4.8,28000
+Social and humanities scientists,51.3,10.0,29000
+Natural and social science professionals n.e.c.,44.8,30.5,62000
+Civil engineers,46.5,4.5,88000
+Mechanical engineers,51.6,2.6,78000
+Electrical engineers,48.0,1.0,54000
+Electronics engineers,46.7,3.0,32000
+Design and development engineers,49.1,8.0,78000
+Production and process engineers,52.0,3.5,48000
+Engineering professionals n.e.c.,49.1,8.0,130000
+"IT business analysts, architects and systems designers",47.0,17.3,148000
+Programmers and software development professionals,47.5,0.0,388000
+Conservation professionals,48.3,6.6,15000
+Environment professionals,48.3,6.6,43000
+Research and development managers,43.6,11.0,55000
+Medical practitioners,89.2,91.2,296000
+Psychologists,55.2,32.6,36000
+Pharmacists,72.0,76.0,70000
+Ophthalmic opticians,90.0,75.0,18000
+Dental practitioners,97.0,90.0,41000
+Veterinarians,91.0,89.0,27000
+Medical radiographers,88.8,89.8,34000
+Podiatrists,84.9,67.8,12000
+Health professionals n.e.c.,84.9,67.8,64000
+Physiotherapists,96.5,61.0,73000
+Occupational therapists,84.9,67.8,47000
+Speech and language therapists,73.0,60.0,20000
+Therapy professionals n.e.c.,55.2,32.6,63000
+Nurses,86.0,91.5,669000
+Midwives,97.0,89.0,45000
+Higher education teaching professionals,50.7,11.1,178000
+Further education teaching professionals,77.0,23.7,127000
+Secondary education teaching professionals,70.0,17.0,395000
+Primary and nursery education teaching professionals,74.5,50.0,437000
+Special needs education teaching professionals,83.0,48.8,86000
+Senior professionals of educational establishments,50.8,14.3,96000
+Education advisers and school inspectors,51.5,8.5,35000
+Teaching and other educational professionals n.e.c.,64.0,36.0,253000
+Barristers and judges,34.0,14.0,30000
+Solicitors,34.0,14.0,122000
+Legal professionals n.e.c.,34.0,14.0,60000
+Chartered and certified accountants,47.5,2.8,185000
+Management consultants and business analysts,49.8,4.3,198000
+Business and financial project management professionals,49.8,4.3,272000
+"Actuaries, economists and statisticians",39.0,2.1,56000
+Business and related research professionals,51.5,4.2,54000
+"Business, research and administrative professionals n.e.c.",51.5,4.2,75000
+Architects,53.0,2.0,55000
+Town planning officers,54.0,6.0,19000
+Quantity surveyors,49.1,8.0,54000
+Chartered surveyors,47.3,4.7,61000
+Chartered architectural technologists,53.0,2.0,6000
+Construction project managers and related professionals,50.0,4.0,83000
+Social workers,60.4,46.4,111000
+Probation officers,60.4,46.4,13000
+Clergy,51.5,26.5,48000
+Welfare professionals n.e.c.,60.4,46.4,30000
+Librarians,55.5,17.0,20000
+Archivists and curators,44.0,3.5,17000
+Quality control and planning engineers,49.1,8.0,35000
+Quality assurance and regulatory professionals,49.8,4.3,107000
+Environmental health professionals,64.5,34.0,10000
+"Journalists, newspaper and periodical editors",54.5,4.5,80000
+Public relations professionals,46.0,4.0,67000
+Advertising accounts managers and creative directors,33.0,2.3,39000
+Laboratory technicians,50.7,4.2,73000
+Electrical and electronics technicians,57.3,6.5,35000
+Engineering technicians,55.8,5.4,100000
+Building and civil engineering technicians,63.9,29.8,22000
+Quality assurance technicians,58.1,16.1,34000
+"Planning, process and production technicians",57.0,1.0,27000
+"Science, engineering and production technicians n.e.c.",58.1,16.1,49000
+Architectural and town planning technicians,63.9,29.8,23000
+Draughtspersons,41.8,1.5,38000
+IT operations technicians,42.0,7.0,108000
+Paramedics,97.0,89.0,28000
+Dispensing opticians,83.0,40.0,9000
+Pharmaceutical technicians,83.0,72.0,33000
+Medical and dental technicians,88.8,89.8,42000
+Youth and community workers,79.0,58.0,74000
+Child and early years officers,79.0,58.0,43000
+Housing officers,79.0,58.0,54000
+Counsellors,60.4,46.4,26000
+Welfare and housing associate professionals n.e.c.,79.0,58.0,142000
+Police officers (sergeant and below),77.0,62.8,153000
+Fire service officers (watch manager and below),78.0,53.8,44000
+Prison service officers (below principal officer),76.0,78.5,42000
+Police community support officers,77.0,62.8,13000
+Protective service associate professionals n.e.c.,62.0,28.4,63000
+Artists,21.5,1.0,60000
+"Authors, writers and translators",39.8,1.8,91000
+"Actors, entertainers and presenters",95.0,5.0,54000
+Dancers and choreographers,76.0,8.0,23000
+Musicians,67.3,13.3,54000
+"Arts officers, producers and directors",55.9,1.4,100000
+"Photographers, audio-visual and broadcasting equipment operators",65.0,6.0,73000
+Graphic designers,43.5,0.0,89000
+"Product, clothing and related designers",53.1,1.7,83000
+Sports players,59.0,6.0,14000
+"Sports coaches, instructors and officials",73.7,9.3,97000
+Fitness instructors,84.2,27.8,68000
+Air traffic controllers,74.0,11.5,8000
+Aircraft pilots and flight engineers,76.7,23.0,26000
+Ship and hovercraft officers,70.0,18.0,14000
+Legal associate professionals,55.2,13.5,74000
+"Estimators, valuers and assessors",46.4,4.2,62000
+Brokers,50.0,2.8,53000
+Insurance underwriters,52.0,5.0,29000
+Finance and investment analysts and advisers,42.0,1.0,219000
+Taxation experts,47.5,2.8,35000
+Importers and exporters,54.2,2.7,6000
+Financial and accounting technicians,45.8,3.4,23000
+Financial accounts managers,44.0,4.0,176000
+Business and related associate professionals n.e.c.,49.3,4.5,184000
+Buyers and procurement officers,48.7,4.0,59000
+Business sales executives,48.0,5.6,131000
+Marketing associate professionals,33.0,2.3,203000
+Estate agents and auctioneers,54.8,4.0,53000
+Sales accounts and business development managers,45.3,5.3,451000
+Conference and exhibition managers and organisers,72.0,0.0,63000
+Conservation and environmental associate professionals,68.0,15.0,11000
+Public services associate professionals,68.0,18.0,93000
+Human resources and industrial relations officers,45.7,14.7,160000
+Vocational and industrial trainers and instructors,59.0,2.0,155000
+Careers advisers and vocational guidance specialists,45.7,14.7,33000
+Inspectors of standards and regulations,68.0,18.0,45000
+Health and safety officers,62.2,13.8,60000
+National government administrative occupations,59.1,29.1,141000
+Local government administrative occupations,57.5,19.0,143000
+Officers of non-governmental organisations,57.5,19.0,38000
+Credit controllers,43.3,6.3,35000
+"Book-keepers, payroll managers and wages clerks",54.0,11.0,428000
+Bank and post office clerks,79.0,25.5,97000
+Finance officers,54.0,11.0,36000
+Financial administrative occupations n.e.c.,79.0,25.5,161000
+Records clerks and assistants,56.0,30.0,110000
+Pensions and insurance clerks and assistants,56.3,5.3,63000
+Stock control clerks and assistants,63.3,9.7,87000
+Transport and distribution clerks and assistants,58.0,9.0,60000
+Library clerks and assistants,67.5,25.0,24000
+Human resources administrative occupations,53.0,14.0,29000
+Sales administrators,68.0,10.0,75000
+Other administrative occupations n.e.c.,49.5,3.0,740000
+Office managers,47.0,9.0,178000
+Office supervisors,47.0,9.0,35000
+Medical secretaries,56.5,37.0,64000
+Legal secretaries,41.0,0.0,39000
+School secretaries,50.0,10.5,72000
+Company secretaries,44.0,5.5,30000
+Personal assistants and other secretaries,50.0,10.5,173000
+Receptionists,52.0,31.0,237000
+Typists and related keyboard occupations,57.0,11.0,36000
+Farmers,43.0,17.2,125000
+Horticultural trades,56.7,6.0,17000
+Gardeners and landscape gardeners,56.7,6.0,172000
+Groundsmen and greenkeepers,56.7,6.0,31000
+Agricultural and fishing trades n.e.c.,39.8,9.8,33000
+Smiths and forge workers,65.0,1.0,4000
+"Moulders, core makers and die casters",68.5,5.5,2000
+Sheet metal workers,64.3,12.7,16000
+"Metal plate workers, and riveters",72.7,9.7,6000
+Welding trades,46.7,0.3,61000
+Pipe fitters,73.3,38.3,5000
+Metal machining setters and setter-operators,53.6,4.5,53000
+"Tool makers, tool fitters and markers-out",61.3,6.8,13000
+Metal working production and maintenance fitters,68.4,15.4,223000
+Precision instrument makers and repairers,56.3,13.3,22000
+Air-conditioning and refrigeration engineers,63.7,17.7,16000
+"Vehicle technicians, mechanics and electricians",55.7,10.0,178000
+Vehicle body builders and repairers,60.0,11.3,24000
+Vehicle paint technicians,61.0,8.0,13000
+Aircraft maintenance and related trades,61.5,11.5,29000
+Boat and ship builders and repairers,68.4,15.4,15000
+Rail and rolling stock builders and repairers,68.4,15.4,10000
+Electricians and electrical fitters,71.5,6.5,259000
+Telecommunications engineers,48.0,4.5,60000
+"TV, video and audio engineers",57.0,6.0,8000
+IT engineers,61.4,14.8,37000
+Electrical and electronic trades n.e.c.,57.0,6.0,79000
+"Skilled metal, electrical and electronic trades supervisors",65.0,1.0,40000
+Steel erectors,72.7,9.7,7000
+Bricklayers and masons,81.5,12.5,78000
+"Roofers, roof tilers and slaters",77.0,4.0,50000
+Plumbers and heating and ventilating engineers,73.3,38.3,186000
+Carpenters and joiners,80.0,9.0,221000
+"Glaziers, window fabricators and fitters",69.0,18.0,40000
+Construction and building trades n.e.c.,50.0,4.0,252000
+Plasterers,59.0,7.0,48000
+Floorers and wall tilers,63.8,8.8,32000
+Painters and decorators,54.0,7.5,132000
+Construction and building trades supervisors,74.5,7.0,65000
+Weavers and knitters,55.0,3.0,3000
+Upholsterers,62.0,2.0,13000
+Footwear and leather working trades,55.0,3.0,5000
+Tailors and dressmakers,63.0,12.0,13000
+"Textiles, garments and related trades n.e.c.",50.0,10.0,15000
+Pre-press technicians,50.5,1.0,3000
+Printers,42.0,0.0,29000
+Print finishing and binding workers,55.0,0.0,9000
+Butchers,67.5,13.0,29000
+Bakers and flour confectioners,55.0,7.0,31000
+Fishmongers and poultry dressers,67.5,13.0,11000
+Chefs,88.0,20.5,244000
+Cooks,66.6,18.4,70000
+Catering and bar managers,78.0,10.0,68000
+"Glass and ceramics makers, decorators and finishers",51.4,2.6,11000
+Furniture makers and other craft woodworkers,54.0,4.3,40000
+Florists,68.0,27.0,11000
+Other skilled trades n.e.c.,52.0,0.5,37000
+Nursery nurses and assistants,88.0,36.0,224000
+Childminders and related occupations,79.8,30.0,106000
+Playworkers,79.8,30.0,31000
+Teaching assistants,88.0,36.0,309000
+Educational support assistants,88.0,36.0,167000
+Veterinary nurses,90.0,77.0,18000
+Pest control officers,49.3,16.0,8000
+Animal care services occupations n.e.c.,77.0,41.8,84000
+Nursing auxiliaries and assistants,90.0,87.0,338000
+Ambulance staff (excluding paramedics),97.0,89.0,23000
+Dental nurses,99.5,98.0,52000
+Houseparents and residential wardens,88.1,90.6,49000
+Care workers and home carers,84.8,41.3,773000
+Senior care workers,84.8,41.3,77000
+Care escorts,88.1,90.6,13000
+"Undertakers, mortuary and crematorium assistants",71.5,68.5,26000
+Sports and leisure assistants,72.4,25.8,64000
+Travel agents,59.7,5.3,36000
+Air travel assistants,85.0,40.0,59000
+Rail travel assistants,79.5,21.5,15000
+Leisure and travel service occupations n.e.c.,73.5,15.8,29000
+Hairdressers and barbers,89.0,32.8,166000
+Beauticians and related occupations,89.6,23.6,95000
+Housekeepers and related occupations,51.0,47.0,50000
+Caretakers,48.0,47.0,70000
+Cleaning and housekeeping managers and supervisors,51.0,47.0,71000
+Sales and retail assistants,68.0,9.5,1048000
+Retail cashiers and check-out operators,72.5,27.5,178000
+Telephone salespersons,77.0,5.0,32000
+Pharmacy and other dispensing assistants,75.5,40.8,79000
+Vehicle and parts salespersons and advisers,68.0,9.5,50000
+Collector salespersons and credit agents,67.0,7.0,14000
+"Debt, rent and other cash collectors",42.0,7.5,28000
+Roundspersons and van salespersons,67.0,7.0,28000
+Market and street traders and assistants,67.0,7.0,15000
+Merchandisers and window dressers,67.0,0.0,21000
+Sales related occupations n.e.c.,67.0,0.0,60000
+Sales supervisors,66.0,10.0,174000
+Call and contact centre occupations,62.0,37.7,93000
+Telephonists,65.5,21.0,7000
+Communication operators,65.5,21.0,37000
+Market research interviewers,73.0,23.0,13000
+Customer service occupations n.e.c.,47.5,17.0,313000
+Customer service managers and supervisors,47.0,9.0,180000
+"Food, drink and tobacco process operatives",55.8,8.2,130000
+Glass and ceramics process operatives,53.3,5.6,3000
+Textile process operatives,64.0,5.0,10000
+Chemical and related process operatives,53.7,5.2,41000
+Rubber process operatives,55.3,5.8,7000
+Plastics process operatives,58.3,3.6,18000
+Metal making and treating process operatives,54.2,5.0,11000
+Electroplaters,55.0,10.7,5000
+Process operatives n.e.c.,52.5,7.7,11000
+Paper and wood machine operatives,51.0,1.0,25000
+Coal mine operatives,53.3,8.3,3000
+Quarry workers and related operatives,59.6,7.3,10000
+Energy plant operatives,61.9,14.4,7000
+Metal working machine operatives,53.6,4.5,58000
+Water and sewerage plant operatives,58.3,11.5,14000
+Printing machine assistants,42.0,0.0,9000
+Plant and machine operatives n.e.c.,54.0,3.5,20000
+Assemblers (electrical and electronic products),53.4,3.0,26000
+Assemblers (vehicles and metal goods),64.5,4.5,44000
+Routine inspectors and testers,65.0,4.0,73000
+"Weighers, graders and sorters",65.0,4.0,17000
+"Tyre, exhaust and windscreen fitters",55.7,10.0,17000
+Sewing machinists,62.0,0.0,33000
+Assemblers and routine operatives n.e.c.,66.0,0.0,43000
+"Scaffolders, stagers and riggers",70.5,7.5,27000
+Road construction operatives,76.5,20.0,22000
+Rail construction and maintenance operatives,76.5,20.0,9000
+Construction operatives n.e.c.,68.5,29.5,109000
+Large goods vehicle drivers,54.0,11.5,304000
+Van drivers,75.8,27.4,283000
+Bus and coach drivers,73.8,43.3,118000
+Taxi and cab drivers and chauffeurs,75.8,27.4,231000
+Driving instructors,76.0,8.0,34000
+Crane drivers,56.8,10.0,14000
+Fork-lift truck drivers,50.0,10.0,93000
+Agricultural machinery drivers,26.5,2.0,5000
+Mobile machine drivers and operatives n.e.c.,50.4,4.2,49000
+Train and tram drivers,54.7,15.3,32000
+Marine and waterways transport operatives,74.0,13.5,5000
+Air transport operatives,63.4,9.0,16000
+Rail transport operatives,56.7,15.3,16000
+Other drivers and transport operatives n.e.c.,63.4,9.0,21000
+Farm workers,42.3,13.3,58000
+Forestry workers,53.4,13.4,6000
+Fishing and other elementary agriculture occupations n.e.c.,46.3,3.7,21000
+Elementary construction occupations,67.6,13.7,158000
+Industrial cleaning process occupations,57.0,2.0,29000
+"Packers, bottlers, canners and fillers",70.0,5.0,131000
+Elementary process plant occupations n.e.c.,57.0,2.0,95000
+"Postal workers, mail sorters, messengers and couriers",64.0,20.8,160000
+Elementary administration occupations n.e.c.,61.5,41.5,32000
+Window cleaners,48.0,47.0,28000
+Cleaners and domestics,48.3,38.3,585000
+"Launderers, dry cleaners and pressers",35.0,4.0,27000
+Refuse and salvage occupations,48.5,39.5,37000
+Vehicle valeters and cleaners,55.0,16.0,30000
+Elementary cleaning occupations n.e.c.,48.3,38.3,7000
+Security guards and related occupations,77.3,33.0,190000
+Parking and civil enforcement occupations,68.0,14.2,14000
+School midday and crossing patrol occupations,68.0,14.2,92000
+Elementary security occupations n.e.c.,68.0,14.2,23000
+Shelf fillers,69.0,13.3,80000
+Elementary sales occupations n.e.c.,67.0,7.0,28000
+Elementary storage occupations,63.4,9.0,440000
+Hospital porters,48.3,38.3,19000
+Kitchen and catering assistants,71.3,17.0,505000
+Waiters and waitresses,75.0,27.5,268000
+Bar staff,79.0,4.0,204000
+Leisure and theme park attendants,68.0,14.2,35000
+Other elementary services occupations n.e.c.,64.8,27.9,26000
