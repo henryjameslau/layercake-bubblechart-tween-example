@@ -1,5 +1,5 @@
 <script>
-	import { LayerCake, Svg, Html } from 'layercake';
+	import { calcExtents, flatten, LayerCake, Svg, Html } from 'layercake';
 
 	import Plot from './components/Bubble.svg.svelte';
 	import AxisX from './components/AxisX.svelte';
@@ -10,21 +10,24 @@
 
 	import points from './data/points.csv';
 
+	const startingxKey = 'Proximity to others';
 	let xKey = 'Proximity to others';
 	let yKey = 'Exposure to disease';
 	const rKey = 'Total in employment';
 
-	let data = points.map(function(d){return {"name":d["Occupation title"],x:+d[xKey],y:+d[yKey],r:+d[rKey]}})
+	const data = points.map(function(d){return {"name":d["Occupation title"],x:+d[xKey],y:+d[yKey],r:+d[rKey]}})
 
-	const tweenedPoints = tweened(data,{duration:2000,easing:cubicInOut})
+	const tweenOptions = {duration:2000,easing:cubicInOut}
+	const xDomain = tweened(undefined, tweenOptions);
+	$: xDomain.set(xKey === 'Total in employment' ? [0,1100000] : [0,100]);
+
+	const tweenedPoints = tweened(undefined, tweenOptions)
 
 	$: temppoints=points.map(function(d){return {"name":d["Occupation title"],x:+d[xKey],y:+d[yKey],r:+d[rKey]}})
 
-	function setTween(){
-		tweenedPoints.set(temppoints)
-	}
+	$: tweenedPoints.set(xKey===startingxKey ? data : temppoints )
 
-	$: setTween(xKey)
+
 </script>
 
 <style>
@@ -59,8 +62,8 @@
 		x='x'
 		y='y'
 		r='r'
-		yDomain={[0,100]}
-		xDomain={[0,null]}
+		yDomain={[0,null]}
+		xDomain={$xDomain}
 		data={$tweenedPoints}
 	>
 		<Svg>
